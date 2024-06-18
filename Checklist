@@ -1,10 +1,10 @@
-1.Convert a credit card number  in array.
+1.Convert a credit card number in array.
 
-2.Remove last element of array and store it as original check digit. 
+2.Remove last element or 16th number of array and store it as original check digit. 
 
 3.Store remaining 15 credit card number in an array in reverse order.
 
-4.Choose every second element of array.
+4.Choose every second element of that array.
 
 5. Double the value of every second digit if product number is single digit then replace it. 
 else add product number and then replace addition number with original number.
