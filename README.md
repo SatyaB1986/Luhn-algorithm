@@ -6,9 +6,9 @@ Build a production-grade ASP.NET Web API with a single REST action: The ability 
 
  Code it as professionally as you would in a paid job. This shouldn’t take more than an hour,
  but examples of what we want to see beyond just code that work sare:
- ●Appropriate documentation
- ●Errorhandling
- ●Acoherentgithistorythatillustrates thestepsofcodingtaken
+  ●Appropriate documentation
+  ●Errorhandling
+  ●Acoherentgithistorythatillustrates thestepsofcodingtaken
  
  Werecommendstartingwithaboilerplatesolutionbyrunning“dotnetnewwebapi”orsimilar
  ● Checklistforbestpracticeswithcomments(Pleasegivethebestpracticespointers)
